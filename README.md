@@ -18,7 +18,7 @@ and the Flutter guide for
 - Pure Dart Map for using with dart
 
 ## Why another Quran package ? 
-Since most of the sources I have searched and found have gesture deficiencies, I shared the Quranic Arabic script on the website of the diocese in the form of a dart class and json data structure.
+Since most of the sources I have searched and found have gesture deficiencies, I shared the Quranic Arabic script on the website of the diyanet in the form of a dart class and json data structure.
 
 ## Source: [kuran.diyanet.gov.tr](https://kuran.diyanet.gov.tr)
 
